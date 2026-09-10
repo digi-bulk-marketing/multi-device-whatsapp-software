@@ -1,9 +1,14 @@
 # Button Sender WhatsApp Software
 
-- Rebranding ID: 64db8e943d279a7bbb3464ed
-- User ID: 6270daa16d5f1e89b8fdde22
-- App name: Button Sender WhatsApp Software
-- Product name: Button Sender
+Button Sender WhatsApp Software by Button Sender WhatsApp Software.
 
-App logo: https://api.digibulkmarketing.com/media/rebranding/multi-device-whatsapp-software/logo.png
-![App Logo](https://api.digibulkmarketing.com/media/rebranding/multi-device-whatsapp-software/logo.png)
+## Installation
+
+### Windows
+1. Download the latest **`.exe`** installer from the [Releases page](https://github.com/digi-bulk-marketing/multi-device-whatsapp-software/releases/latest).
+2. Run the installer and follow the prompts.
+3. Launch **Button Sender WhatsApp Software** from the Start menu.
+
+## Updates
+
+Download the newest installer from the [Releases page](https://github.com/digi-bulk-marketing/multi-device-whatsapp-software/releases/latest) and reinstall.
